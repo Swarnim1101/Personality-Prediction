@@ -5,6 +5,7 @@ The system will rank CVs based on experience, key skills, and other important as
 
 
 Features:
+
 • This system will automatically determine the key skill characteristic by defining each 
 expert's preferences and ranking decisions.
 • The presented system automates the processes of requirements specification and 
@@ -15,6 +16,7 @@ consistent with those of the human experts.
 from a large number of applicants providing a consistent and fair CV ranking policy.
 
 Advantages:
+
 • This system can be used in many business sectors that may require expert candidate.
 • This system will reduce workload of the human resource department.
 • This system will help the human resource department to select right candidate for 
@@ -23,6 +25,7 @@ particular job profile which in turn provide expert workforce for the organizati
 marks and can select an appropriate candidate for desired job profile.
 
 Disadvantages:
+
 • This system requires large memory space as it stores data related to CV’s.
 • Requires an active internet connection.
 • May provide inaccurate results if data not entered properly
